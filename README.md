@@ -5,7 +5,7 @@
 
 2.文件gallery_features_alexnet.pkl，为AlexNet卷积深层神经网络的训练集特征提取数据库。（预训练模型：torchvision.models.alexnet(pretrained=True) 中的预训练模型是自动下载的！这是PyTorch官方提供的在ImageNet-1k数据集上预训练的AlexNet模型，模型文件约~230MB。高效简洁。）文件gallery_features_alexnet.pkl可以删去，供自行修改后的数据集实现重新提取新的特征数据库。
 
-3.文件sift_vocabulary.pkl是SIFT算法下的视觉词典；文件sift_bow_features.pkl是图像的词袋特征；文件sift_query_X_results.png是查询结果可视化。三个文件也都可以删去，供自行修改后的数据集实现重新提取新的特征数据库。
+3.文件sift_vocabulary.pkl是SIFT算法下的视觉词典；文件sift_bow_features.pkl是图像的词袋特征；文件sift_query_X_results.png是查询结果可视化。三个pkl文件也都可以删去，只要重新运行程序，即可供自行修改后的数据集实现重新提取新的特征数据库。
 
 4.VIassignment1_AlexNet.ipynb为AlexNet算法下的JupyterNotebook文件，包含算法的中文介绍与应用想法，包含源码。（AlexNet.py）
 
