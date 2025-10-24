@@ -7,8 +7,7 @@
 
 3.文件sift_vocabulary.pkl是SIFT算法下的视觉词典；文件sift_bow_features.pkl是图像的词袋特征；文件sift_query_X_results.png是查询结果可视化。三个文件也都可以删去，供自行修改后的数据集实现重新提取新的特征数据库。
 
-4.VIassignment1_AlexNet.ipynb为AlexNet算法下的JupyterNotebook文件，包含算法的中文介绍与应用想法，包含源码
+4.VIassignment1_AlexNet.ipynb为AlexNet算法下的JupyterNotebook文件，包含算法的中文介绍与应用想法，包含源码。（AlexNet.py）
 
-5.VIassignment1_SIFT.ipynb为SIFT算法下的JupyterNotebook文件，包含算法的中文介绍与应用想法，包含源码
+5.VIassignment1_SIFT.ipynb为SIFT算法下的JupyterNotebook文件，包含算法的中文介绍与应用想法，包含源码。（SIFT.py）
 
-6.alexnet_query_1_results.png等为alexnet算法下的query1-5的instance match的输出结果。
