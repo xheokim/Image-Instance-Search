@@ -11,3 +11,4 @@
 
 5.VIassignment1_SIFT.ipynb为SIFT算法下的JupyterNotebook文件，包含算法的中文介绍与应用想法，包含源码。（SIFT.py）
 
+6.最终结果除了生成query1-5中每个query的前十个最相近的instance search图像外，还会将 50 个查询的检索结果（包含 28,493 幅图像的排序列表，按相似度降序排列）列于文本文件 rankList.txt 中。两种方式会各生成一个txt文件。
